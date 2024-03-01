@@ -1,0 +1,17 @@
+.toggle-button{
+    background-color: #ccc;
+    color: #333;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+   }
+   .toggle-button.ON {
+    background-color: green;
+    color: white;
+   }
+   .toggle-button.OFF {
+    background-color: red;
+    color: white;
+   }
